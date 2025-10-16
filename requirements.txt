@@ -1,2 +1,1 @@
-# requirements.txt
-# Empty or with minimal requirements
+# Empty or minimal requirements
